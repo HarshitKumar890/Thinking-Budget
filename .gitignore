@@ -1,0 +1,41 @@
+backend/.venv/
+model/.venv/
+.venv/
+venv/
+env/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+frontend/.next/
+
+# Python
+__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Environment Variables
+.env
+.env.*
+
+# Project Specific (Models, Data, Results)
+# Whitelist only the live calculation exports:
+model/export/*
+!model/export/models/
+!model/export/models/**
+!model/export/models_1m/
+!model/export/models_1m/**
+!model/export/models_5m_recovery/
+!model/export/models_5m_recovery/**
+
+# Local caches & artifacts
+graphify-out/
+**/graphify-out/
+
+# OS & IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
