@@ -3,7 +3,7 @@
 > **DataForge 2026 | NeurIPS 2026 Education Track**
 
 **🌐 Live demo:** https://data-forge-nitjsr.vercel.app/  
-**📦 Source code:** https://github.com/aditraj24/dataForge
+**📦 Source code:** https://github.com/HarshitKumar890/Thinking-Budget
 **📦 Demo Video:** https://drive.google.com/file/d/1IKDB60ag-NsyNG5m2NLwy8f01Eht9TzL/view?usp=sharing
 
 ---
