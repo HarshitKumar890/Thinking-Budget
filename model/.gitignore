@@ -1,4 +1,10 @@
 .venv/
 __pycache__/
 *.pyc
-export/
+export/*
+!export/models/
+!export/models/**
+!export/models_1m/
+!export/models_1m/**
+!export/models_5m_recovery/
+!export/models_5m_recovery/**
